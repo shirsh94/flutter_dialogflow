@@ -92,13 +92,14 @@ If you find any issues or have suggestions for improvements, feel free to contri
 
 ## Contact
 
-- LinkedIn: [Shirsh Shukla](https://www.linkedin.com/in/shirshshukla/)
-- Twitter: [@shirsh_shukla](https://twitter.com/shirsh_shukla)
+- Medium: [Shirsh Shukla]([https://www.linkedin.com/in/shirshshukla/](https://shirsh94.medium.com/))
+- youtube: [Shirsh Shukla]([https://www.linkedin.com/in/shirshshukla/](https://www.youtube.com/channel/UCbBdLnqrcnTU4IN3QmkDdIw))
+- Stack Overflow: [Shirsh Shukla]([https://www.linkedin.com/in/shirshshukla/](https://stackoverflow.com/users/13098417/shirsh-shukla))
+- LinkedIn: [Shirsh Shukla]([https://www.linkedin.com/in/shirshshukla/](https://in.linkedin.com/in/shirsh-shukla-95b85786))
+- Twitter: [@shirsh_shukla]([https://twitter.com/shirsh_shukla](https://twitter.com/shirsh94?lang=en))
 
 ## Acknowledgments
 
 Special thanks to the Flutter and Dialogflow communities for their valuable contributions and support.
 
----
 
-If you notice any inaccuracies or have suggestions for improvement, please leave a comment. Thank you for reading! 🚀
