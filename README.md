@@ -4,6 +4,12 @@
 
 Welcome to the Flutter Chatbot with Dialogflow project! In this Flutter project, we'll be creating a simple chatbot using Dialogflow, a tool provided by Google. Dialogflow allows you to build chatbots without requiring extensive knowledge of machine learning or natural language processing (NLP). This README will guide you through the process of setting up your chatbot using Dialogflow and integrating it into a Flutter application.
 
+
+**Project Preview:**
+
+![Chatbot Preview](https://raw.githubusercontent.com/shirsh94/flutter_dialogflow/main/sample_test.gif)
+
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
