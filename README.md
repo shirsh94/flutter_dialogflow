@@ -92,11 +92,11 @@ If you find any issues or have suggestions for improvements, feel free to contri
 
 ## Contact
 
-- Medium: [Shirsh Shukla]([https://www.linkedin.com/in/shirshshukla/](https://shirsh94.medium.com/))
-- youtube: [Shirsh Shukla]([https://www.linkedin.com/in/shirshshukla/](https://www.youtube.com/channel/UCbBdLnqrcnTU4IN3QmkDdIw))
-- Stack Overflow: [Shirsh Shukla]([https://www.linkedin.com/in/shirshshukla/](https://stackoverflow.com/users/13098417/shirsh-shukla))
-- LinkedIn: [Shirsh Shukla]([https://www.linkedin.com/in/shirshshukla/](https://in.linkedin.com/in/shirsh-shukla-95b85786))
-- Twitter: [@shirsh_shukla]([https://twitter.com/shirsh_shukla](https://twitter.com/shirsh94?lang=en))
+- Medium: [Shirsh Shukla](https://shirsh94.medium.com/)
+- youtube: [Shirsh Shukla](https://www.youtube.com/channel/UCbBdLnqrcnTU4IN3QmkDdIw)
+- Stack Overflow: [Shirsh Shukla](https://stackoverflow.com/users/13098417/shirsh-shukla)
+- LinkedIn: [Shirsh Shukla](https://in.linkedin.com/in/shirsh-shukla-95b85786)
+- Twitter: [@shirsh_shukla](https://twitter.com/shirsh94?lang=en)
 
 ## Acknowledgments
 
