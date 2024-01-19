@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "shirshshuklainfobot-jqgg",
+  "private_key_id": "90f7075ec75f7c6e89b62288beb70984bab71e90",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0vJ6iQeE2O+vz\nLQwOYSnX1nmz8UCTPzxYuu0mSpszQCdtYKp728Y0E/fn3qNq4WxfAtYVV0xBkl8C\nqFDcICBceGZT04pyEdDaJXpBDYkBjtpNeZYHGI6WKXNdg6/rYfMfxUO92WNo1eNp\nkUZUt/wns3zLNlJnq8JO2VzqVVS288p+QH1kWUiFkRjnXtXgNa/FD1U7whelOlVx\nvfl1KAObWQoddVCqBTsz9oVWzoGdNiDtKdmPDbcKaQvxs7hXJmkG1orjhY4Q1/PV\ntgy5U3X+2zA7i8CA5wDNOYkMHEFtqljwPo4SzDU+JrWcmcGhdrwDSilldi9h1yD4\nDF/ZgfD3AgMBAAECggEAEm+PCuQHcf3IwqRcr3bPytlwzp8URDDWGgLvP9GqZR7t\nJqYOndW8MQG8buVx6+wUnthuN/0QpTul/2Jl5R5NzsDlRzWz0JDqqeXaw5n62LLW\np8J4QD8MBFs0Dlzpa+ww3ZPEpi/viPkQWmtcLjYaPX58g0oGO9b0WhCn/qs3mfW2\nVB+7/rluXfp6LkKmJJ2L3tzqk38SE+qpKbMOOI0quGr7AWNsLYyWUn9VPEY3xhW2\nyCNh7R9Gg7Uxshgr/cA4GBAiXM9ehKvEXqgP3RPGofPkqOVqm592GgmHK41PWyfK\nwzdl21CCYYMutTC+5zSYAQxwijSjh+f1cSASWAjBEQKBgQDcD0pXZLmlgGXY6dlM\n3gS2GPlpg5UwlBOuUcVuR5Anu2DSVkUfu99fUV8JkTO4tNKzxdEl7yAYPZH46kAu\nNYqNJDcL70dSXHRa//iiNEeGJL/QaWNhC6U6vToH8YQTB8y7ebC2MxYfIcjGVyha\nmx1OZ/bURxQcXe+pyEazVWswDwKBgQDSQTw5INjYdsHHwUpkirlJKAPxmdwKYAxN\nk/7TuSmZGtcJ2T84IXjFmCj5qV00gRbD+THx6S2f6U3jJlJpUNFwa2cl68pNeMql\nfoa/6Vqukea747GaDCKmkK6xz8la6rRMWsjGpvuaV28e23bWMjdMr99uI4H73UjM\nHvq7fDJImQKBgAdXEzm7CF423C7SDgd8WFfimV8lnnJSXh2waI93H53TqDUb345h\na9/4DN161GjSzzxj2sgTI9TrKNVOqvlfm9F9ZcCmKJDcuJzYcOioKcKVszg2a7Qu\n+UHuUeM18RvZZMDUHErXhWNgcxv6iEQNbHrTCO6nuEoB8B6PqZwNu1eNAoGBAJdJ\nAUBJ9j2rFbvZxOGbP7733/6TqtR8T93yQ0Ws0dWsjlYzz11gGDp1ReZ+iuYgjHTu\ndZWPJpkNklGDXYER+eFeJpYOlz4vUADMjcDA89LwgIlpSH2Dhds797dRv5x/jMPz\n/suRkzB3ASm+2D8/WrL/SVFCk2Da1GqrT9Zfgv7hAoGAGPKZ2Pp7dV+4s5xu65AX\n/e8ZKRXxCf8PfDYXzP7sCGz+jPiyyoaQLzJNqXmiPqMa7hzWbeV4GpQFS3JSzyNZ\nV1L/QV532PI/OTutXmQE7aGKfTasQ9mvZnrilvJPCs0KZatazKZr6h3k4wKy9BFo\nf000IoxZyfUmeTRnBBDhdTA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "shirshbot-590@shirshshuklainfobot-jqgg.iam.gserviceaccount.com",
+  "client_id": "116170831450929756244",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shirshbot-590%40shirshshuklainfobot-jqgg.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
